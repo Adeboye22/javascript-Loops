@@ -1,5 +1,5 @@
-## Multiplication Table
-This is a short exercise on a 12 times multiplication table using javascript.
+# LOOPS
+This are exercises depicting how the for and while loops can be used to solve problems.
 
-## Language
+## LANGUAGE
 - Javascript.
